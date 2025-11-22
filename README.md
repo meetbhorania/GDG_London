@@ -14,13 +14,14 @@ A brutally honest, hilariously savage, and surprisingly helpful AI application t
 
 <div align="center">
 <img width="1470" height="873" alt="image" src="https://github.com/user-attachments/assets/d7572c15-3809-4c49-b4c3-59731c2ee9c3"/>
-&nbsp; <em>Left: Choose your intensity level. Right: The detailed Roast Report Dashboard.</em>
+&nbsp; <em>Home Screen.</em>
 </p>
-<img src="https://via.placeholder.com/600x400.png?text=Roast+Report" alt="Roast Report" width="45%" />
+<img width="1468" height="869" alt="image" src="https://github.com/user-attachments/assets/4365b5fd-7e36-4eb9-a2da-242b22ada08f" />
+
 </div>
 
 <p align="center">
-<em>Left: Choose your intensity level. Right: The detailed Roast Report Dashboard.</em>
+<em>output.</em>
 </p>
 
 ## 🌟 Features
