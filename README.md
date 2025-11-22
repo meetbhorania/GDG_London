@@ -14,7 +14,8 @@ A brutally honest, hilariously savage, and surprisingly helpful AI application t
 
 <div align="center">
 <img width="1470" height="873" alt="image" src="https://github.com/user-attachments/assets/d7572c15-3809-4c49-b4c3-59731c2ee9c3"/>
-&nbsp;
+&nbsp; <em>Left: Choose your intensity level. Right: The detailed Roast Report Dashboard.</em>
+</p>
 <img src="https://via.placeholder.com/600x400.png?text=Roast+Report" alt="Roast Report" width="45%" />
 </div>
 
