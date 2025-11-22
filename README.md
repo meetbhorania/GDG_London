@@ -5,7 +5,8 @@
 > "If someone's profile doesn't make you cringe, you're not roasting hard enough."
 
 <!-- REPLACE THE LINK BELOW WITH YOUR MAIN APP SCREENSHOT -->
-![LinkedIn Roaster Banner](<img width="1470" height="869" alt="image" src="https://github.com/user-attachments/assets/dd135f81-eb7f-4f60-8027-e2e58843d5f1" />)
+<img width="1470" height="869" alt="image" src="https://github.com/user-attachments/assets/76bde046-ef12-4645-a92b-860a61fe2054" />
+
 
 A brutally honest, hilariously savage, and surprisingly helpful AI application that roasts your LinkedIn profile to help you improve it. Using the power of **Google Gemini AI**, this app analyzes your headline, about section, and experience to deliver a roast so hot it'll burn your ego (but heal your career).
 
