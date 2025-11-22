@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-g" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LinkedIn Profile Roaster</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      @keyframes gradientAnimation {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      body {
+        background: linear-gradient(-45deg, #030712, #111827, #7f1d1d, #9a3412);
+        background-size: 400% 400%;
+        animation: gradientAnimation 20s ease infinite;
+      }
+
+      @keyframes emoji-throw {
+        0% {
+          transform: translate(var(--start-x), var(--start-y)) scale(0);
+          opacity: 0;
+        }
+        20% {
+          opacity: 1;
+        }
+        100% {
+          transform: translate(calc(var(--start-x) + var(--end-x-jitter)), var(--end-y)) scale(var(--scale)) rotate(var(--rotation));
+          opacity: 0;
+        }
+      }
+
+      .emoji-particle {
+        position: absolute;
+        animation: emoji-throw 1.5s cubic-bezier(0.17, 0.84, 0.44, 1) forwards;
+        animation-delay: var(--delay);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.0",
+    "react-pageflip": "https://aistudiocdn.com/react-pageflip@^2.0.3"
+  }
+}
+</script>
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
