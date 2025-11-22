@@ -12,12 +12,15 @@ A brutally honest, hilariously savage, and surprisingly helpful AI application t
 
 ## 📸 Screenshots
 
-<!-- REPLACE THESE LINKS WITH YOUR ACTUAL SCREENSHOTS -->
-| The Roast Form | The Result Flipbook |
-|:---:|:---:|
-| <img width="1470" height="873" alt="image" src="https://github.com/user-attachments/assets/d7572c15-3809-4c49-b4c3-59731c2ee9c3"/>
- | ![Roast Result](https://via.placeholder.com/400x300.png?text=Flipbook+Result) |
-| *Choose your intensity level* | *Interactive 3D Flipbook Report* |
+<div align="center">
+<img width="1470" height="873" alt="image" src="https://github.com/user-attachments/assets/d7572c15-3809-4c49-b4c3-59731c2ee9c3"/>
+&nbsp;
+<img src="https://via.placeholder.com/600x400.png?text=Roast+Report" alt="Roast Report" width="45%" />
+</div>
+
+<p align="center">
+<em>Left: Choose your intensity level. Right: The detailed Roast Report Dashboard.</em>
+</p>
 
 ## 🌟 Features
 
