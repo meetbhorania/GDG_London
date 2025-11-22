@@ -61,7 +61,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="text-center py-6 text-gray-500 text-sm">
-        <p>Built with savage intentions by a world-class senior frontend React engineer.</p>
+        <p>Build by Meet Bhorania for GDG AI Innovation Hub</p>
         <p>&copy; {new Date().getFullYear()} LinkedIn Roaster. All rights reserved (to roast).</p>
       </footer>
     </div>
